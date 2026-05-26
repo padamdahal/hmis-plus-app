@@ -1,0 +1,23 @@
+{
+  "launch_path": "index.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": "*"
+    }
+  },
+  "appType": "APP",
+  "name": "HMIS Plus",
+  "version": "1.0.0",
+  "description": "HMIS Additional Reporting Gateway",
+  "developer": {
+    "name": "Padam",
+    "email": "padam.dahal@giz.de",
+    "url": "",
+    "company": ""
+  },
+  "icons": {
+    "48": "img/icon.png"
+  },
+  "manifest_generated_at": ""
+}
